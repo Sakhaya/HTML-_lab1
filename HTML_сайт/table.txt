@@ -1,0 +1,15 @@
+<html>
+<header>
+   <title> Лабороторная работа №2 </title>
+</header>
+
+<body>
+<details> Меню
+<ul>
+<li> Главная </li>
+<li> Авторы </li>
+<li> Таблицы </li>
+</ul>
+</details> 
+</body>
+</html>
